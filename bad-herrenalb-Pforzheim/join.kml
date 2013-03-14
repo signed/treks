@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"
+     xmlns:kml="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>Rundweg-Bad-Herrenalb-Dobel</name>
+        <open>1</open>
+        <Style id="tourGeom">
+            <LineStyle>
+                <color>ff0f05c9</color>
+                <width>3</width>
+            </LineStyle>
+        </Style>
+        <Style id="tourStart">
+            <IconStyle>
+                <colorMode>normal</colorMode>
+                <scale>1.5</scale>
+                <Icon>
+                    <href>http://res.oastatic.com/tour.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+            </IconStyle>
+        </Style>
+        <Style id="tourEnd">
+            <IconStyle>
+                <colorMode>normal</colorMode>
+                <scale>1.5</scale>
+                <Icon>
+                    <href>http://res.oastatic.com/tour_end.png</href>
+                </Icon>
+                <hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+            </IconStyle>
+        </Style>
+        <Style id="tourhikingTourTrail">
+            <ListStyle>
+                <ItemIcon>
+                    <href>
+                        http://res.oastatic.com/icons/alpstein/hikingTourTrail/forest_green/hikingTourTrail.mapscreen.png
+                    </href>
+                </ItemIcon>
+            </ListStyle>
+        </Style>
+        <Style id="tb3378507g">
+            <BalloonStyle>
+                <text><![CDATA[<div style="width:380px;margin:0px;padding:0px"><table border="0" style="background-color:#ADBE00;width:100%"><tr><td><span style="font-weight:bold;margin:10px">&gt;$[typeText]</span></td></tr></table><table border="0" style="background-color:#D9D9D9:width:100%"><tr><td style="text-align:center"><div style="text-align:center;width:80px;margin-right:6px"><a href="$[entryURL]"><img src="$[imgURL]" width="55" height="55" border="0"/></a></div></td><td style="vertical-align:top"><div style='margin-top:4px;margin-bottom:4px;vertical-align:top'>$[shortText]</div></td></tr></table><table border="0"><tr><td style="marign-right:10px;align:left;width:160px"><table border="0"><tr><td style="overflow:hidden;padding:0;width:60px;margin-right:6px;float:left">Länge:</td><td style="overflow:hidden;padding:0;width:72px;margin-right:3px"><table border="0" cellspacing="0px"><tr><td style="width:10px;margin-right:4px">&nbsp;</td><td style="width:60px;margin-right:3px;text-align:right">$[tourLength]</td><td style="width:30px;margin-right:2px;" width="99%">km</td></tr></table></td></tr><tr><td style="overflow:hidden;padding:0;width:60px;margin-right:6px;float:left">Höhe:</td><td style="overflow:hidden;padding:0;width:72px;margin-right:3px"><table border="0" cellspacing="0px"><tr><td style="width:10px;margin-right:4px"><img src="http://res.oastatic.com/extres/hm_up.gif" border="0" style="margin:0;padding:0"/></td><td style="width:60px;margin-right:3px;text-align:right">$[ascent]</td><td style="width:30px;margin-right:2px;" width="99%">m</td></tr></table></td></tr><tr><td style="overflow:hidden;padding:0;width:60px;margin-right:6px;float:left">&nbsp;</td><td style="overflow:hidden;padding:0;width:72px;margin-right:3px"><table border="0" cellspacing="0px"><tr><td style="width:10px;margin-right:4px"><img src="http://res.oastatic.com/extres/hm_down.gif" border="0" style="margin:0;padding:0"/></td><td style="width:60px;margin-right:3px;text-align:right">$[descent]</td><td style="width:30px;margin-right:2px;" width="99%">m</td></tr></table></td></tr><tr><td style="overflow:hidden;padding:0;width:60px;margin-right:6px;float:left">Zeit:</td><td style="overflow:hidden;padding:0;width:72px;margin-right:3px"><table border="0" cellspacing="0px"><tr><td style="width:10px;margin-right:4px">&nbsp;</td><td style="width:60px;margin-right:3px;text-align:right">$[time]</td><td style="width:30px;margin-right:2px;" width="99%">h</td></tr></table></td></tr></table></td><td style="align:left;width:220px"><table border="0"><tr><td style="overflow:hidden;padding:0;width:80px;margin-right:6px;float:left;">Kondition:</td><td style="overflow:hidden;padding:0;width:72px;margin-right:3px"><span class="icon"><div style="background:transparent;height:12px;text-align:left;margin:0px;padding:0px"><img src="http://res.oastatic.com/extres/s1.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s1.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s1.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/></div></span></td></tr><tr><td style="overflow:hidden;padding:0;width:80px;margin-right:6px;float:left;">Technik:</td><td style="overflow:hidden;padding:0;width:72px;margin-right:3px"><span class="icon"><div style="background:transparent;height:12px;text-align:left;margin:0px;padding:0px"><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/></div></span></td></tr><tr><td style="overflow:hidden;padding:0;width:80px;margin-right:6px;float:left;">Erlebnis:</td><td style="overflow:hidden;padding:0;width:72px;margin-right:3px"><span class="icon"><div style="background:transparent;height:12px;text-align:left;margin:0px;padding:0px"><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/></div></span></td></tr><tr><td style="overflow:hidden;padding:0;width:80px;margin-right:6px;float:left;">Landschaft:</td><td style="overflow:hidden;padding:0;width:72px;margin-right:3px"><span class="icon"><div style="background:transparent;height:12px;text-align:left;margin:0px;padding:0px"><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/><img src="http://res.oastatic.com/extres/s3.gif" alt="" border="0" style="margin:0;padding:0"/></div></span></td></tr></table></td></tr></table><table border="0" style="background-color:#D9D9D9:width:100%"><tr><td style="text-align:center;width=33%"><a href="$[playURL]" target="Play"><img src="http://res.oastatic.com/extres/3d_ansicht.gif"/> Tour Animation </a></td></tr></table><div style="margin-top:10px;text-align:right;"><a href="$[entryURL]"><img alt="Powered by outdooractive" src="http://res.oastatic.com/extres/outdooractive.gif" border="0"/></a></div>
+</div>]]></text>
+            </BalloonStyle>
+            <LineStyle>
+                <color>ff0f05c9</color>
+                <width>3</width>
+            </LineStyle>
+        </Style>
+        <Folder>
+            <name>Rundweg Bad Herrenalb - Dobel</name>
+            <Placemark id="t3378507">
+                <name>Tourgeometrie</name>
+                <description><![CDATA[]]></description>
+                <ExtendedData>
+                    <Data name="typeText">
+                        <value>Wanderung</value>
+                    </Data>
+                    <Data name="title">
+                        <value>Rundweg Bad Herrenalb - Dobel</value>
+                    </Data>
+                    <Data name="shortText">
+                        <value><![CDATA[Der Rundweg führt von Bad Herrenalb nach Dobel und wieder zurück und bietet schöne Aussichten auf die Umgebung.
+<p> </p>]]></value>
+                    </Data>
+                    <Data name="entryURL">
+                        <value>
+                            http://www.outdooractive.com//de/wanderung/nordschwarzwald/rundweg-bad-herrenalb-dobel/3378507/
+                        </value>
+                    </Data>
+                    <Data name="imgURL">
+                        <value>http://img.oastatic.com/img/320/320/3491619/t.jpg</value>
+                    </Data>
+                    <Data name="icon">
+                        <value>
+                            http://res.oastatic.com/icons/alpstein/hikingTourTrail/forest_green/hikingTourTrail.mapscreen.png
+                        </value>
+                    </Data>
+                    <Data name="tourLength">
+                        <value>0,0</value>
+                    </Data>
+                    <Data name="time">
+                        <value>2:56</value>
+                    </Data>
+                    <Data name="ascent">
+                        <value>392</value>
+                    </Data>
+                    <Data name="descent">
+                        <value>367</value>
+                    </Data>
+                    <Data name="playURL">
+                        <value>#tour_3378507;flyto</value>
+                    </Data>
+                </ExtendedData>
+                <styleUrl>#tb3378507g</styleUrl>
+                <LineString>
+                    <coordinates>8.43869,48.79789 8.43865,48.79788 8.43867,48.79774 8.43858,48.79753 8.43870,48.79738
+                        8.43891,48.79723 8.43927,48.79711 8.44013,48.79698 8.44052,48.79747 8.44132,48.79831
+                        8.44149,48.79843 8.44165,48.79859 8.44165,48.79857 8.44167,48.79869 8.44164,48.79878
+                        8.44178,48.79873 8.44193,48.79872 8.44259,48.79879 8.44430,48.79918 8.44419,48.79911
+                        8.44430,48.79918 8.44452,48.79924 8.44474,48.79920 8.44507,48.79919 8.44611,48.79921
+                        8.44652,48.79917 8.44710,48.79906 8.44749,48.79896 8.44767,48.79893 8.44776,48.79894
+                        8.44805,48.79909 8.44821,48.79914 8.44854,48.79920 8.44892,48.79921 8.44981,48.79953
+                        8.45055,48.79970 8.45105,48.79975 8.45131,48.79974 8.45146,48.79968 8.45218,48.79965
+                        8.45267,48.79947 8.45355,48.79898 8.45411,48.79873 8.45478,48.79856 8.45540,48.79846
+                        8.45589,48.79845 8.45638,48.79850 8.45689,48.79860 8.45737,48.79873 8.45832,48.79904
+                        8.45932,48.79947 8.45971,48.79961 8.45983,48.79957 8.45996,48.79945 8.46025,48.79970
+                        8.46067,48.79962 8.46084,48.79954 8.46124,48.79930 8.46162,48.79904 8.46199,48.79873
+                        8.46308,48.79732 8.46344,48.79709 8.46377,48.79693 8.46436,48.79706 8.46499,48.79717
+                        8.46549,48.79724 8.46634,48.79731 8.46651,48.79707 8.46662,48.79700 8.46700,48.79687
+                        8.46713,48.79675 8.46733,48.79655 8.46764,48.79605 8.46830,48.79577 8.46847,48.79537
+                        8.47034,48.79501 8.47019,48.79500 8.47034,48.79501 8.47101,48.79519 8.47169,48.79609
+                        8.47197,48.79620 8.47269,48.79653 8.47422,48.79693 8.47511,48.79722 8.47578,48.79741
+                        8.47618,48.79757 8.47680,48.79793 8.47820,48.79764 8.47843,48.79783 8.47973,48.79921
+                        8.48000,48.79936 8.48040,48.79946 8.48143,48.79955 8.48238,48.79956 8.48328,48.79953
+                        8.48384,48.79958 8.48431,48.79969 8.48461,48.79980 8.48517,48.80006 8.48579,48.80040
+                        8.48634,48.80060 8.48670,48.80067 8.48705,48.80069 8.48816,48.80028 8.48917,48.79998
+                        8.48967,48.79970 8.49026,48.79928 8.49040,48.79923 8.49068,48.79902 8.49128,48.79885
+                        8.49160,48.79867 8.49223,48.79825 8.49279,48.79791 8.49309,48.79776 8.49333,48.79766
+                        8.49346,48.79752 8.49350,48.79740 8.49403,48.79740 8.49404,48.79731 8.49430,48.79727
+                        8.49476,48.79749 8.49372,48.79701 8.49379,48.79687 8.49310,48.79678 8.49301,48.79669
+                        8.49226,48.79640 8.49152,48.79616 8.49088,48.79605 8.49080,48.79595 8.49088,48.79605
+                        8.49018,48.79590 8.48825,48.79540 8.48669,48.79476 8.48641,48.79460 8.48656,48.79453
+                        8.48669,48.79444 8.48683,48.79428 8.48694,48.79398 8.48725,48.79354 8.48409,48.79310
+                        8.47938,48.79251 8.47921,48.79261 8.47861,48.79281 8.47832,48.79285 8.47738,48.79286
+                        8.47492,48.79270 8.47425,48.79271 8.47375,48.79277 8.47109,48.79352 8.46969,48.79400
+                        8.46658,48.79485 8.46619,48.79491 8.46532,48.79556 8.46495,48.79592 8.46468,48.79615
+                        8.46368,48.79675 8.46349,48.79689 8.46339,48.79712 8.46308,48.79732 8.46199,48.79873
+                        8.46162,48.79904 8.46124,48.79930 8.46084,48.79954 8.46067,48.79962 8.46025,48.79970
+                        8.46001,48.79970 8.45986,48.79968 8.45932,48.79947 8.45832,48.79904 8.45730,48.79871
+                        8.45689,48.79860 8.45638,48.79850 8.45589,48.79845 8.45540,48.79846 8.45478,48.79856
+                        8.45411,48.79873 8.45355,48.79898 8.45267,48.79947 8.45218,48.79965 8.45146,48.79968
+                        8.45131,48.79974 8.45105,48.79975 8.45055,48.79970 8.44981,48.79953 8.44892,48.79921
+                        8.44854,48.79920 8.44821,48.79914 8.44805,48.79909 8.44776,48.79894 8.44767,48.79893
+                        8.44749,48.79896 8.44710,48.79906 8.44652,48.79917 8.44611,48.79921 8.44507,48.79919
+                        8.44474,48.79920 8.44452,48.79924 8.44259,48.79879 8.44193,48.79872 8.44178,48.79873
+                        8.44164,48.79878 8.44167,48.79869 8.44165,48.79859 8.44149,48.79843 8.44132,48.79831
+                        8.44052,48.79747 8.44027,48.79717 8.44005,48.79685
+                    </coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
