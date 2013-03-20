@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<name><![CDATA[Waypoints20.03.2013 18:41:30]]></name>
+<description><![CDATA[<h1>OruxMaps</h1><br /><hr align="center" width="480" style="height: 2px; width: 517px"/><h2>Name: Waypoints20.03.2013 18:41:30</h2><br /><p>Startzeit: 01/01/1970 01:00</p><p>Zielzeit: 01/01/1970 01:00</p><p>Distanz: 31,4 km (00:00)</p><p>Bewegungszeit: 00:00</p><p>Ø-Geschwindigkeit: 0 km/h</p><p>Netto Geschwindigkeit: 0 km/h</p><p>Max. Geschwindigkeit: 0 km/h</p><p>Minimale Höhe: 0 m</p><p>Maximale Höhe: 0 m</p><p>Aufstieg: 0 m</p><p>Abstieg: 0 m</p><p>Steigzeit: 00:00</p><p>Sinkzeit: 00:00</p><hr align="center" width="480" style="height: 2px; width: 517px"/>]]></description>
+<StyleMap id="multiTrack"><Pair><key>normal</key><styleUrl>#multiTrack_n</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#multiTrack_h</styleUrl></Pair></StyleMap><Style id="multiTrack_n"><IconStyle><Icon><href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href></Icon></IconStyle><LineStyle><color>99ffac59</color><width>6</width></LineStyle></Style><Style id="multiTrack_h"><IconStyle><scale>1.2</scale><Icon><href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href></Icon></IconStyle><LineStyle><color>99ffac59</color><width>8</width></LineStyle></Style><Folder>
+<name>Waypoints</name>
+<Placemark>
+<name><![CDATA[Eberhard Essich Hütte]]></name>
+<description><![CDATA[]]></description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>8.60860358,48.852319210000005,0.0</coordinates>
+</Point>
+<styleUrl>#gv_waypoint</styleUrl>
+</Placemark>
+<Placemark>
+<name><![CDATA[schwanner warte]]></name>
+<description><![CDATA[]]></description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>8.54907999,48.8383675,0.0</coordinates>
+</Point>
+<styleUrl>#gv_waypoint</styleUrl>
+</Placemark>
+<Placemark>
+<name><![CDATA[unterstand]]></name>
+<description><![CDATA[]]></description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>8.528051470000001,48.80771095,0.0</coordinates>
+</Point>
+<styleUrl>#gv_waypoint</styleUrl>
+</Placemark>
+<Placemark>
+<name><![CDATA[überdachter Picknick platz]]></name>
+<description><![CDATA[]]></description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>8.52388868,48.800220559999985,0.0</coordinates>
+</Point>
+<styleUrl>#gv_waypoint</styleUrl>
+</Placemark>
+<Placemark>
+<name><![CDATA[weithäusle hütte]]></name>
+<description><![CDATA[]]></description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>8.472046929999998,48.767786969999996,0.0</coordinates>
+</Point>
+<styleUrl>#gv_waypoint</styleUrl>
+</Placemark>
+<Placemark>
+<name><![CDATA[schweizer Kopf Hütte]]></name>
+<description><![CDATA[]]></description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>8.45500954,48.76707980999999,0.0</coordinates>
+</Point>
+<styleUrl>#gv_waypoint</styleUrl>
+</Placemark>
+<Placemark>
+<name><![CDATA[hahnenfalzhütte]]></name>
+<description><![CDATA[]]></description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>8.42767246,48.74914300999998,0.0</coordinates>
+</Point>
+<styleUrl>#gv_waypoint</styleUrl>
+</Placemark>
+<Placemark>
+<name><![CDATA[hütte]]></name>
+<description><![CDATA[]]></description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>8.42535503,48.739775990000005,0.0</coordinates>
+</Point>
+<styleUrl>#gv_waypoint</styleUrl>
+</Placemark>
+<Placemark>
+<name><![CDATA[hütte]]></name>
+<description><![CDATA[]]></description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>8.430719519999998,48.72364141999999,0.0</coordinates>
+</Point>
+<styleUrl>#gv_waypoint</styleUrl>
+</Placemark>
+<Placemark>
+<name><![CDATA[Hütte]]></name>
+<description><![CDATA[]]></description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>8.4172441,48.70874770000001,0.0</coordinates>
+</Point>
+<styleUrl>#gv_waypoint</styleUrl>
+</Placemark>
+<Placemark>
+<name><![CDATA[Hütte]]></name>
+<description><![CDATA[]]></description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>8.37986475,48.69336793999999,0.0</coordinates>
+</Point>
+<styleUrl>#gv_waypoint</styleUrl>
+</Placemark>
+<Placemark>
+<name><![CDATA[Wegscheid hütte]]></name>
+<description><![CDATA[]]></description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>8.32652107,48.66885838,0.0</coordinates>
+</Point>
+<styleUrl>#gv_waypoint</styleUrl>
+</Placemark>
+<visibility>1</visibility>
+</Folder>
+<Folder>
+<name>Tracks</name>
+<Placemark>
+<name><![CDATA[Segment 1]]></name>
+<description><![CDATA[]]></description>
+<styleUrl>#multiTrack</styleUrl>
+<gx:Track>
+<when>1970-01-01T00:00:00Z</when>
+<when>1970-01-01T00:00:00Z</when>
+<when>1970-01-01T00:00:00Z</when>
+<when>1970-01-01T00:00:00Z</when>
+<when>1970-01-01T00:00:00Z</when>
+<when>1970-01-01T00:00:00Z</when>
+<when>1970-01-01T00:00:00Z</when>
+<when>1970-01-01T00:00:00Z</when>
+<when>1970-01-01T00:00:00Z</when>
+<when>1970-01-01T00:00:00Z</when>
+<when>1970-01-01T00:00:00Z</when>
+<when>1970-01-01T00:00:00Z</when>
+<gx:coord>8.32652107 48.66885838 0.0</gx:coord>
+<gx:coord>8.37986475 48.69336793999999 0.0</gx:coord>
+<gx:coord>8.4172441 48.70874770000001 0.0</gx:coord>
+<gx:coord>8.430719519999998 48.72364141999999 0.0</gx:coord>
+<gx:coord>8.42535503 48.739775990000005 0.0</gx:coord>
+<gx:coord>8.42767246 48.74914300999998 0.0</gx:coord>
+<gx:coord>8.45500954 48.76707980999999 0.0</gx:coord>
+<gx:coord>8.472046929999998 48.767786969999996 0.0</gx:coord>
+<gx:coord>8.52388868 48.800220559999985 0.0</gx:coord>
+<gx:coord>8.528051470000001 48.80771095 0.0</gx:coord>
+<gx:coord>8.54907999 48.8383675 0.0</gx:coord>
+<gx:coord>8.60860358 48.852319210000005 0.0</gx:coord>
+</gx:Track>
+</Placemark>
+<open>0</open>
+<visibility>1</visibility>
+</Folder>
+<Folder>
+<name>Paths</name>
+<Placemark>
+<name><![CDATA[Segment 1]]></name>
+<description><![CDATA[]]></description>
+<MultiGeometry>
+<LineString>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+8.32652107,48.66885838,0.0
+8.37986475,48.69336793999999,0.0
+8.4172441,48.70874770000001,0.0
+8.430719519999998,48.72364141999999,0.0
+8.42535503,48.739775990000005,0.0
+8.42767246,48.74914300999998,0.0
+8.45500954,48.76707980999999,0.0
+8.472046929999998,48.767786969999996,0.0
+8.52388868,48.800220559999985,0.0
+8.528051470000001,48.80771095,0.0
+8.54907999,48.8383675,0.0
+8.60860358,48.852319210000005,0.0
+</coordinates>
+<tessellate>1</tessellate>
+</LineString>
+</MultiGeometry>
+<Style><LineStyle><color>FFE600E6</color><width>4</width></LineStyle></Style>
+</Placemark>
+<open>0</open>
+<visibility>1</visibility>
+</Folder>
+<Style id="gv_waypoint"><BalloonStyle><text><![CDATA[<p align="left"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text></BalloonStyle><IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon29.png</href></Icon><color>FFFFFFFF</color><colorMode>normal</colorMode><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle><LabelStyle><color>FFFFFFFF</color></LabelStyle></Style><open>1</open>
+<visibility>1</visibility>
+ </Document>
+</kml>
