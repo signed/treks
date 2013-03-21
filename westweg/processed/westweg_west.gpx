@@ -1,8 +1,333 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" creator="QLandkarteGT 1.7.0 http://www.qlandkarte.org/" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1">
  <metadata>
-  <time>2013-03-20T22:11:21Z</time>
+  <time>2013-03-21T22:04:15Z</time>
  </metadata>
+ <wpt lon="8.17776680" lat="48.23989868">
+  <time>2013-03-21T21:35:26Z</time>
+  <name>Büchereckhütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901726Büchereckhütte3</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.18398285" lat="48.25681686">
+  <time>2013-03-21T21:35:12Z</time>
+  <name>Brunnen</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901712Brunnen2</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.21615028" lat="48.58565140">
+  <time>2013-03-21T21:22:38Z</time>
+  <name>Unterstand</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363900958Unterstand17</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.18121624" lat="48.25671768">
+  <time>2013-03-21T21:34:59Z</time>
+  <name>Hasenmanhütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901699Hasenmanhütte1</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.16848373" lat="48.26631546">
+  <time>2013-03-21T21:34:38Z</time>
+  <name>Hasenecklehütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901678Hasenecklehütte0</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.21953297" lat="48.51446533">
+  <time>2013-03-21T21:23:16Z</time>
+  <name>Schwabenrankenhütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363900996Schwabenrankenhütte18</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="7.84746647" lat="47.82941818">
+  <time>2013-03-21T21:42:49Z</time>
+  <name>Krinnenpasshütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363902169Krinnenpasshütte16</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.26898289" lat="48.44896698">
+  <time>2013-03-21T21:23:44Z</time>
+  <name>Hildahütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901024Hildahütte19</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.16633320" lat="48.22019958">
+  <time>2013-03-21T21:35:57Z</time>
+  <name>Unterstand</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901757Unterstand4</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="7.88333321" lat="47.86425018">
+  <time>2013-03-21T21:42:15Z</time>
+  <name>Unterstand</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363902135Unterstand15</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="7.93658352" lat="47.87856674">
+  <time>2013-03-21T21:41:52Z</time>
+  <name>Auerhahnhütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363902112Auerhahnhütte14</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.17041683" lat="48.21588516">
+  <time>2013-03-21T21:36:06Z</time>
+  <name>Unterstand</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901766Unterstand5</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.04766655" lat="47.88114929">
+  <time>2013-03-21T21:41:18Z</time>
+  <name>Rufenholzhütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363902078Rufenholzhütte13</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.12758350" lat="47.92928314">
+  <time>2013-03-21T21:40:22Z</time>
+  <name>Unterstand</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363902022Unterstand12</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.18141651" lat="48.17115021">
+  <time>2013-03-21T21:36:19Z</time>
+  <name>Unterstand</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901779Unterstand6</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.13203335" lat="47.96554947">
+  <time>2013-03-21T21:38:47Z</time>
+  <name>Hütte am Doldenbühl</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901927Hütte am Doldenbühl10</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.16215038" lat="48.07781601">
+  <time>2013-03-21T21:38:15Z</time>
+  <name>Hütte am Brend</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901895Hütte am Brend9</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.25395012" lat="48.43348312">
+  <time>2013-03-21T21:24:08Z</time>
+  <name>Lettstädterhütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901048Lettstädterhütte20</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.41576672" lat="48.70994949">
+  <time>2013-03-21T21:17:16Z</time>
+  <name>Unterstand Hohlohturm</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363900636Unterstand Hohlohturm8</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.42728329" lat="48.74946594">
+  <time>2013-03-21T21:16:01Z</time>
+  <name>Hahnenfalzhütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363900561Hahnenfalzhütte5</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.43070030" lat="48.72441483">
+  <time>2013-03-21T21:16:47Z</time>
+  <name>Kreuzlehütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363900607Kreuzlehütte7</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.21628380" lat="48.59661484">
+  <time>2013-03-21T21:22:22Z</time>
+  <name>Unterstand</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363900942Unterstand16</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.60849953" lat="48.85261536">
+  <time>2013-03-21T21:14:42Z</time>
+  <name>Eberhard-Essich-Hütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363900482Eberhard-Essich-Hütte4</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="7.66106653" lat="47.70286560">
+  <time>2013-03-21T20:56:11Z</time>
+  <name>Eichenhütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363899371Eichenhütte3</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="7.81506681" lat="47.81228256">
+  <time>2013-03-21T20:52:36Z</time>
+  <name>Richtstatt</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363899156Richtstatt0</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="7.68253326" lat="47.73153305">
+  <time>2013-03-21T20:54:25Z</time>
+  <name>Langenebenehütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363899265Langenebenehütte2</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="7.70898342" lat="47.76253510">
+  <time>2013-03-21T20:53:30Z</time>
+  <name>Hexenplatzhütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363899210Hexenplatzhütte1</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.42444992" lat="48.73984909">
+  <time>2013-03-21T21:16:23Z</time>
+  <name>Langmartskopfhütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363900583Langmartskopfhütte6</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.33443356" lat="48.66809845">
+  <time>2013-03-21T21:19:58Z</time>
+  <name>Scheune-Unterstand</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363900798Scheune-Unterstand12</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.32614994" lat="48.66948318">
+  <time>2013-03-21T21:20:21Z</time>
+  <name>Wegscheidunterstand</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363900821Wegscheidunterstand13</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.25755024" lat="48.66643524">
+  <time>2013-03-21T21:21:38Z</time>
+  <name>Naturfreundehaus Badner Höhe</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363900898Naturfreundehaus Badner Höhe15</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.31883335" lat="48.66383362">
+  <time>2013-03-21T21:20:51Z</time>
+  <name>Jägerlochhütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363900851Jägerlochhütte14</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.40706635" lat="48.70041656">
+  <time>2013-03-21T21:17:45Z</time>
+  <name>Prinzenhütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363900665Prinzenhütte9</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.39843369" lat="48.69708252">
+  <time>2013-03-21T21:18:23Z</time>
+  <name>Draberghütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363900703Draberghütte10</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.37933350" lat="48.69308472">
+  <time>2013-03-21T21:19:05Z</time>
+  <name>Latschighütte</name>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363900745Latschighütte11</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.17373371" lat="48.35813522">
+  <time>2013-03-21T21:25:52Z</time>
+  <name>Kreuzsattelhütte</name>
+  <cmt>angeblich laut in der Nacht</cmt>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901152Kreuzsattelhütte22</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.12028313" lat="47.94029999">
+  <time>2013-03-21T21:39:12Z</time>
+  <name>Hütte auf Weißtannenhöhe</name>
+  <desc>Angeblich letztes lager vor titisee</desc>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901952Hütte auf Weißtannenhöhe11</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.17154980" lat="48.10905075">
+  <time>2013-03-21T21:37:38Z</time>
+  <name>Weissenbacher-Höhe</name>
+  <desc>Besserer Unterstand</desc>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901858Weissenbacher-Höhe8</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.17800045" lat="48.12915039">
+  <time>2013-03-21T21:36:45Z</time>
+  <name>Blindenhöhe Unterstand</name>
+  <desc>Kleiner Wetterschutz, nichts zum übernachten</desc>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901805Blindenhöhe Unterstand7</ql:key>
+  </extensions>
+ </wpt>
+ <wpt lon="8.22408295" lat="48.40066528">
+  <time>2013-03-21T21:24:53Z</time>
+  <name>Haaghütte</name>
+  <cmt>Verschlossen Quelle in der Nähe</cmt>
+  <sym></sym>
+  <extensions>
+   <ql:key>1363901093Haaghütte21</ql:key>
+  </extensions>
+ </wpt>
  <trk>
   <name>001-Eberhard-Essich-Hütte</name>
   <extensions>
@@ -18596,12 +18921,12 @@
   </trkseg>
  </trk>
  <trk>
-  <name>Rest_2_2_2_2_2_2</name>
+  <name>038-Hexenplatzhütte</name>
   <extensions>
    <gpxx:TrackExtension>
     <gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor>
    </gpxx:TrackExtension>
-   <ql:key>1363817198Rest_2_2_2_2_2_233</ql:key>
+   <ql:key>1363900203Rest_2_2_2_2_2_2_10</ql:key>
   </extensions>
   <trkseg>
    <trkpt lon="7.81490231" lat="47.81212616">
@@ -19556,6 +19881,21 @@
     <ele>760.52</ele>
     <time>2007-09-18T11:07:47.000Z</time>
    </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>039-Langenebenehütte</name>
+  <extensions>
+   <gpxx:TrackExtension>
+    <gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor>
+   </gpxx:TrackExtension>
+   <ql:key>1363900363Rest_2_2_2_2_2_2_2_12</ql:key>
+  </extensions>
+  <trkseg>
+   <trkpt lon="7.70904160" lat="47.76259232">
+    <ele>760.52</ele>
+    <time>2007-09-18T11:07:47.000Z</time>
+   </trkpt>
    <trkpt lon="7.70911074" lat="47.76238251">
     <ele>759.789</ele>
     <time>2007-09-18T11:08:05.000Z</time>
@@ -19852,6 +20192,21 @@
     <ele>540.098</ele>
     <time>2007-09-18T11:13:26.000Z</time>
    </trkpt>
+   <trkpt lon="7.68229723" lat="47.73126984">
+    <ele>542.191</ele>
+    <time>2007-09-18T11:14:10.000Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>040-Basel-Bahnhof</name>
+  <extensions>
+   <gpxx:TrackExtension>
+    <gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor>
+   </gpxx:TrackExtension>
+   <ql:key>1363900363Rest_2_2_2_2_2_2_2_23</ql:key>
+  </extensions>
+  <trkseg>
    <trkpt lon="7.68229723" lat="47.73126984">
     <ele>542.191</ele>
     <time>2007-09-18T11:14:10.000Z</time>
