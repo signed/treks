@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" creator="QLandkarteGT 1.7.0 http://www.qlandkarte.org/" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1">
+ <metadata>
+  <time>2013-03-21T17:12:53Z</time>
+ </metadata>
+ <trk>
+  <name>030-Hütte auf Fürsatzhöhe</name>
+  <extensions>
+   <gpxx:TrackExtension>
+    <gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor>
+   </gpxx:TrackExtension>
+   <ql:key>1363815890Rest_2_124</ql:key>
+  </extensions>
+  <trkseg>
+   <trkpt lon="8.12023354" lat="47.94042969">
+    <ele>1036.75</ele>
+    <time>2007-09-18T08:22:05.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12052631" lat="47.94049835">
+    <ele>1037.2</ele>
+    <time>2007-09-18T08:22:06.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12201023" lat="47.94062042">
+    <ele>1038.03</ele>
+    <time>2007-09-18T08:22:07.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12463284" lat="47.94084549">
+    <ele>1039.5</ele>
+    <time>2007-09-18T08:22:14.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12679577" lat="47.93979263">
+    <ele>1032.52</ele>
+    <time>2007-09-18T08:22:16.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12747574" lat="47.93909836">
+    <ele>1027.91</ele>
+    <time>2007-09-18T08:22:20.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12812424" lat="47.93819046">
+    <ele>1021.88</ele>
+    <time>2007-09-18T08:22:21.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12820148" lat="47.93756485">
+    <ele>1017.72</ele>
+    <time>2007-09-18T08:22:26.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12849522" lat="47.93695450">
+    <ele>1013.68</ele>
+    <time>2007-09-18T08:22:28.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12840271" lat="47.93656158">
+    <ele>1011.06</ele>
+    <time>2007-09-18T08:22:32.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12875748" lat="47.93561554">
+    <ele>1004.78</ele>
+    <time>2007-09-18T08:22:34.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12866497" lat="47.93524933">
+    <ele>1002.34</ele>
+    <time>2007-09-18T08:22:36.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12874222" lat="47.93401337">
+    <ele>994.133</ele>
+    <time>2007-09-18T08:22:37.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12889671" lat="47.93343353">
+    <ele>990.289</ele>
+    <time>2007-09-18T08:22:38.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12878895" lat="47.93296814">
+    <ele>987.188</ele>
+    <time>2007-09-18T08:22:49.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12831020" lat="47.93228149">
+    <ele>982.637</ele>
+    <time>2007-09-18T08:22:50.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12815571" lat="47.93162537">
+    <ele>978.273</ele>
+    <time>2007-09-18T08:22:52.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12803173" lat="47.93103790">
+    <ele>974.363</ele>
+    <time>2007-09-18T08:22:53.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12798500" lat="47.92987061">
+    <ele>966.602</ele>
+    <time>2007-09-18T08:22:55.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12790298" lat="47.92964172">
+    <ele>965.09</ele>
+    <time>2007-09-18T08:28:51.000Z</time>
+   </trkpt>
+   <trkpt lon="8.12732029" lat="47.92947769">
+    <ele>964.004</ele>
+    <time>2007-09-18T08:28:52.000Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <extensions/>
+</gpx>

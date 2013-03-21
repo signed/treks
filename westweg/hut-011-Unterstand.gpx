@@ -3,5 +3,108 @@
  <metadata>
   <time>2013-03-21T17:12:53Z</time>
  </metadata>
+ <trk>
+  <name>011-Unterstand</name>
+  <extensions>
+   <gpxx:TrackExtension>
+    <gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor>
+   </gpxx:TrackExtension>
+   <ql:key>1363811601Track 001_2_2_2_2_2_2_2_2_2_2_12</ql:key>
+  </extensions>
+  <trkseg>
+   <trkpt lon="8.21668625" lat="48.59692764">
+    <ele>925.133</ele>
+    <time>1970-01-01T00:24:07.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21728420" lat="48.59665680">
+    <ele>927.676</ele>
+    <time>1970-01-01T00:24:08.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21748829" lat="48.59640503">
+    <ele>928.711</ele>
+    <time>1970-01-01T00:24:09.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21767807" lat="48.59627151">
+    <ele>929.668</ele>
+    <time>1970-01-01T00:24:10.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21790886" lat="48.59621811">
+    <ele>930.781</ele>
+    <time>1970-01-01T00:24:11.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21790791" lat="48.59609604">
+    <ele>930.902</ele>
+    <time>1970-01-01T00:24:12.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21748734" lat="48.59596252">
+    <ele>929.004</ele>
+    <time>1970-01-01T00:24:13.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21750069" lat="48.59596252">
+    <ele>929.07</ele>
+    <time>1970-01-01T00:24:14.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21767807" lat="48.59569931">
+    <ele>930.141</ele>
+    <time>1970-01-01T00:24:15.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21756935" lat="48.59534836">
+    <ele>929.852</ele>
+    <time>1970-01-01T00:24:16.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21769142" lat="48.59533310">
+    <ele>930.516</ele>
+    <time>1970-01-01T00:24:17.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21775913" lat="48.59476471">
+    <ele>931.391</ele>
+    <time>1970-01-01T00:24:18.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21721649" lat="48.59297180">
+    <ele>929.016</ele>
+    <time>1970-01-01T00:24:19.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21690273" lat="48.59235764">
+    <ele>926.828</ele>
+    <time>1970-01-01T00:24:20.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21676731" lat="48.59167480">
+    <ele>925.805</ele>
+    <time>1970-01-01T00:24:21.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21713352" lat="48.59008408">
+    <ele>928.578</ele>
+    <time>1970-01-01T00:24:22.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21720219" lat="48.58939362">
+    <ele>928.809</ele>
+    <time>1970-01-01T00:24:23.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21709347" lat="48.58869171">
+    <ele>927.59</ele>
+    <time>1970-01-01T00:24:24.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21682167" lat="48.58784866">
+    <ele>925.121</ele>
+    <time>1970-01-01T00:24:25.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21637344" lat="48.58684158">
+    <ele>921.473</ele>
+    <time>1970-01-01T00:24:26.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21637344" lat="48.58636475">
+    <ele>921.375</ele>
+    <time>1970-01-01T00:24:27.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21653748" lat="48.58590698">
+    <ele>922.43</ele>
+    <time>1970-01-01T00:24:28.000Z</time>
+   </trkpt>
+   <trkpt lon="8.21675396" lat="48.58569336">
+    <ele>923.867</ele>
+    <time>1970-01-01T00:24:29.000Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
  <extensions/>
 </gpx>

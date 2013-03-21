@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" creator="QLandkarteGT 1.7.0 http://www.qlandkarte.org/" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1">
+ <metadata>
+  <time>2013-03-21T17:12:53Z</time>
+ </metadata>
+ <trk>
+  <name>026-Weissenbacher-Höhe-Besserer Unterstand</name>
+  <extensions>
+   <gpxx:TrackExtension>
+    <gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor>
+   </gpxx:TrackExtension>
+   <ql:key>1363815215Rest_2_2_2_2_116</ql:key>
+  </extensions>
+  <trkseg>
+   <trkpt lon="8.17812634" lat="48.12911606">
+    <ele>985.082</ele>
+    <time>1970-01-01T00:51:56.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17790413" lat="48.12904358">
+    <ele>985.734</ele>
+    <time>1970-01-01T00:51:57.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17531967" lat="48.12789917">
+    <ele>993.633</ele>
+    <time>1970-01-01T00:51:58.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17381191" lat="48.12702560">
+    <ele>997.688</ele>
+    <time>1970-01-01T00:51:59.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17300892" lat="48.12663269">
+    <ele>999.66</ele>
+    <time>1970-01-01T00:52:00.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17271996" lat="48.12616730">
+    <ele>1000.6</ele>
+    <time>1970-01-01T00:52:01.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17230320" lat="48.12574768">
+    <ele>1001.71</ele>
+    <time>1970-01-01T00:52:02.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17041206" lat="48.12432098">
+    <ele>1006.02</ele>
+    <time>1970-01-01T00:52:03.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16873741" lat="48.12327576">
+    <ele>1009.25</ele>
+    <time>1970-01-01T00:52:04.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16865730" lat="48.12291718">
+    <ele>1009.47</ele>
+    <time>1970-01-01T00:52:05.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16845894" lat="48.12262726">
+    <ele>1009.86</ele>
+    <time>1970-01-01T00:52:06.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16832829" lat="48.12228012">
+    <ele>1010.14</ele>
+    <time>1970-01-01T00:52:07.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16832829" lat="48.12228775">
+    <ele>1010.13</ele>
+    <time>1970-01-01T00:52:08.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16834641" lat="48.12199020">
+    <ele>1010.18</ele>
+    <time>1970-01-01T00:52:09.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16835594" lat="48.12199020">
+    <ele>1010.16</ele>
+    <time>1970-01-01T00:52:10.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16850567" lat="48.12159729">
+    <ele>1010.04</ele>
+    <time>1970-01-01T00:52:11.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16898727" lat="48.12130737">
+    <ele>1009.44</ele>
+    <time>1970-01-01T00:52:12.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16940117" lat="48.12085342">
+    <ele>1009.03</ele>
+    <time>1970-01-01T00:52:13.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16954327" lat="48.12055969">
+    <ele>1008.95</ele>
+    <time>1970-01-01T00:52:14.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16951370" lat="48.12030792">
+    <ele>1009.08</ele>
+    <time>1970-01-01T00:52:15.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16926956" lat="48.11973572">
+    <ele>1009.58</ele>
+    <time>1970-01-01T00:52:16.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16856289" lat="48.11911392">
+    <ele>1010.59</ele>
+    <time>1970-01-01T00:52:17.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16827106" lat="48.11877060">
+    <ele>1011</ele>
+    <time>1970-01-01T00:52:18.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16738605" lat="48.11750793">
+    <ele>1012.1</ele>
+    <time>1970-01-01T00:52:19.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16713238" lat="48.11708832">
+    <ele>1012.38</ele>
+    <time>1970-01-01T00:52:20.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16693401" lat="48.11625290">
+    <ele>1012.6</ele>
+    <time>1970-01-01T00:52:21.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16690636" lat="48.11605453">
+    <ele>1012.63</ele>
+    <time>1970-01-01T00:52:22.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16690636" lat="48.11605072">
+    <ele>1012.63</ele>
+    <time>1970-01-01T00:52:23.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16697121" lat="48.11586761">
+    <ele>1012.6</ele>
+    <time>1970-01-01T00:52:24.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16722584" lat="48.11558533">
+    <ele>1012.43</ele>
+    <time>1970-01-01T00:52:25.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16827106" lat="48.11484909">
+    <ele>1011.86</ele>
+    <time>1970-01-01T00:52:26.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16892147" lat="48.11457062">
+    <ele>1011.54</ele>
+    <time>1970-01-01T00:52:27.000Z</time>
+   </trkpt>
+   <trkpt lon="8.16911888" lat="48.11449051">
+    <ele>1011.45</ele>
+    <time>1970-01-01T00:52:28.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17043781" lat="48.11368179">
+    <ele>1011.08</ele>
+    <time>1970-01-01T00:52:29.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17050266" lat="48.11348724">
+    <ele>1011.15</ele>
+    <time>1970-01-01T00:52:30.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17050266" lat="48.11349487">
+    <ele>1011.14</ele>
+    <time>1970-01-01T00:52:31.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17052174" lat="48.11309814">
+    <ele>1011.33</ele>
+    <time>1970-01-01T00:52:32.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17053223" lat="48.11310577">
+    <ele>1011.32</ele>
+    <time>1970-01-01T00:52:33.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17067337" lat="48.11239243">
+    <ele>1011.62</ele>
+    <time>1970-01-01T00:52:34.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17038059" lat="48.11046600">
+    <ele>1012.63</ele>
+    <time>1970-01-01T00:52:35.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17050266" lat="48.11018372">
+    <ele>1012.76</ele>
+    <time>1970-01-01T00:52:36.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17050266" lat="48.11019135">
+    <ele>1012.75</ele>
+    <time>1970-01-01T00:52:37.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17073917" lat="48.10989380">
+    <ele>1012.89</ele>
+    <time>1970-01-01T00:52:38.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17128468" lat="48.10943604">
+    <ele>1013</ele>
+    <time>1970-01-01T00:52:39.000Z</time>
+   </trkpt>
+   <trkpt lon="8.17140770" lat="48.10917282">
+    <ele>1013</ele>
+    <time>1970-01-01T00:52:40.000Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <extensions/>
+</gpx>

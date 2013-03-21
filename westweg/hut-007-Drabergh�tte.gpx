@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" creator="QLandkarteGT 1.7.0 http://www.qlandkarte.org/" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1">
+ <metadata>
+  <time>2013-03-21T17:12:53Z</time>
+ </metadata>
+ <trk>
+  <name>007-Draberghütte</name>
+  <extensions>
+   <gpxx:TrackExtension>
+    <gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor>
+   </gpxx:TrackExtension>
+   <ql:key>1363809709Track 001_2_2_2_2_2_2_14</ql:key>
+  </extensions>
+  <trkseg>
+   <trkpt lon="8.40675259" lat="48.70037842">
+    <ele>960.871</ele>
+    <time>1970-01-01T00:11:12.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40669823" lat="48.70026779">
+    <ele>959.988</ele>
+    <time>1970-01-01T00:11:13.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40641212" lat="48.70020294">
+    <ele>957.734</ele>
+    <time>1970-01-01T00:11:14.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40579987" lat="48.70021439">
+    <ele>953.559</ele>
+    <time>1970-01-01T00:11:15.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40525627" lat="48.70011520">
+    <ele>949.352</ele>
+    <time>1970-01-01T00:11:16.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40468407" lat="48.69998169">
+    <ele>944.773</ele>
+    <time>1970-01-01T00:11:17.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40382576" lat="48.69969940">
+    <ele>937.492</ele>
+    <time>1970-01-01T00:11:18.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40288734" lat="48.69934082">
+    <ele>929.195</ele>
+    <time>1970-01-01T00:11:19.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40219307" lat="48.69898224">
+    <ele>922.535</ele>
+    <time>1970-01-01T00:11:20.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40179920" lat="48.69857788">
+    <ele>917.715</ele>
+    <time>1970-01-01T00:11:21.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40122700" lat="48.69804764">
+    <ele>910.941</ele>
+    <time>1970-01-01T00:11:22.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40026093" lat="48.69737625">
+    <ele>900.504</ele>
+    <time>1970-01-01T00:11:23.000Z</time>
+   </trkpt>
+   <trkpt lon="8.39977074" lat="48.69710541">
+    <ele>895.527</ele>
+    <time>1970-01-01T00:11:24.000Z</time>
+   </trkpt>
+   <trkpt lon="8.39933491" lat="48.69691467">
+    <ele>891.348</ele>
+    <time>1970-01-01T00:11:25.000Z</time>
+   </trkpt>
+   <trkpt lon="8.39896774" lat="48.69690704">
+    <ele>888.629</ele>
+    <time>1970-01-01T00:11:26.000Z</time>
+   </trkpt>
+   <trkpt lon="8.39876270" lat="48.69697952">
+    <ele>887.523</ele>
+    <time>1970-01-01T00:11:27.000Z</time>
+   </trkpt>
+   <trkpt lon="8.39861393" lat="48.69694901">
+    <ele>886.273</ele>
+    <time>1970-01-01T00:11:28.000Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <extensions/>
+</gpx>

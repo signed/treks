@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:rmc="urn:net:trekbuddy:1.0:nmea:rmc" creator="QLandkarteGT 1.7.0 http://www.qlandkarte.org/" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.qlandkarte.org/xmlschemas/v1.1 http://www.qlandkarte.org/xmlschemas/v1.1/ql-extensions.xsd" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:ql="http://www.qlandkarte.org/xmlschemas/v1.1">
+ <metadata>
+  <time>2013-03-21T17:12:53Z</time>
+ </metadata>
+ <trk>
+  <name>006-Prinzenhütte</name>
+  <extensions>
+   <gpxx:TrackExtension>
+    <gpxx:DisplayColor>DarkCyan</gpxx:DisplayColor>
+   </gpxx:TrackExtension>
+   <ql:key>1363809653Track 001_2_2_2_2_2_12</ql:key>
+  </extensions>
+  <trkseg>
+   <trkpt lon="8.41564083" lat="48.70990372">
+    <ele>927.145</ele>
+    <time>1970-01-01T00:11:00.000Z</time>
+   </trkpt>
+   <trkpt lon="8.41312313" lat="48.70882416">
+    <ele>934.422</ele>
+    <time>1970-01-01T00:11:01.000Z</time>
+   </trkpt>
+   <trkpt lon="8.41261864" lat="48.70832825">
+    <ele>937.008</ele>
+    <time>1970-01-01T00:11:02.000Z</time>
+   </trkpt>
+   <trkpt lon="8.41214275" lat="48.70787048">
+    <ele>939.473</ele>
+    <time>1970-01-01T00:11:03.000Z</time>
+   </trkpt>
+   <trkpt lon="8.41155815" lat="48.70738602">
+    <ele>942.27</ele>
+    <time>1970-01-01T00:11:04.000Z</time>
+   </trkpt>
+   <trkpt lon="8.41078186" lat="48.70684814">
+    <ele>945.664</ele>
+    <time>1970-01-01T00:11:05.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40993786" lat="48.70611954">
+    <ele>950.051</ele>
+    <time>1970-01-01T00:11:06.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40891743" lat="48.70515823">
+    <ele>955.895</ele>
+    <time>1970-01-01T00:11:07.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40741920" lat="48.70367813">
+    <ele>965.211</ele>
+    <time>1970-01-01T00:11:08.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40735245" lat="48.70338058">
+    <ele>966.656</ele>
+    <time>1970-01-01T00:11:09.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40725708" lat="48.70159912">
+    <ele>968.848</ele>
+    <time>1970-01-01T00:11:10.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40667057" lat="48.70055771">
+    <ele>961.109</ele>
+    <time>1970-01-01T00:11:11.000Z</time>
+   </trkpt>
+   <trkpt lon="8.40675259" lat="48.70037842">
+    <ele>960.871</ele>
+    <time>1970-01-01T00:11:12.000Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <extensions/>
+</gpx>
